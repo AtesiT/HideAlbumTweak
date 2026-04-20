@@ -1,0 +1,8 @@
+Package: com.secretalbum.hidehiddenalbum
+Name: Clock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Clock display settings
+Author: SecretAlbum
+Maintainer: SecretAlbum
+Section: Tweaks
